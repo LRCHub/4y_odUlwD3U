@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "さがしもの",
+  "base_artist": "パクユナ",
+  "createdAt": "2026-02-16T18:18:04.367502Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "さがしもの",
+      "artist": "藤川千愛",
+      "has_synced": true,
+      "path": "select/01_さがしもの_藤川千愛.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "さがしもの",
+      "artist": "藤川千愛",
+      "has_synced": true,
+      "path": "select/02_さがしもの_藤川千愛.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "さがしもの",
+      "artist": "Fujikawa, Chiai",
+      "has_synced": true,
+      "path": "select/03_さがしもの_Fujikawa,_Chiai.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "さがしもの - Sagashimono",
+      "artist": "Chiai Fujikawa",
+      "has_synced": true,
+      "path": "select/04_さがしもの_-_Sagashimono_Chiai_Fujikawa.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "さがしもの",
+      "artist": "Chiai Fujikawa",
+      "has_synced": true,
+      "path": "select/05_さがしもの_Chiai_Fujikawa.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "さがしもの",
+      "artist": "パクユナ",
+      "has_synced": false,
+      "path": "select/pl_01_さがしもの_パクユナ.txt"
+    }
+  ]
+}
